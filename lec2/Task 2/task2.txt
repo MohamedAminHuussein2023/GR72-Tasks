@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <hr>
+    <center>
+        <span>
+            <a target="_blank" href="https://www.loreal.com/en/">home</a>
+            <img src="images/nav-underline.png" alt="">
+            <a target="_blank" href="">contact</a>
+            <img src="images/nav-underline.png" alt="">
+            <a target="_blank" href="">about</a>
+            <img src="images/nav-underline.png" alt="">
+            <a target="_blank" href="">product</a>
+            <img src="images/nav-underline.png" alt="">
+        </span>
+    </center>
+    <hr>
+    <marquee behavior="" direction="">
+        <img src="images/LB-DOD-en.jpg" alt="new img">
+        <img src="images/mar2.png" alt="new img">
+        <img src="images/mar3.jpg" alt="new img">
+        <img src="images/mar4.jpg" alt="new img">
+    </marquee>
+    <img src="images/14888690743950163267.jpg" alt="new img">
+    <span>
+        <img src="images/watch.jpg" alt="new img">
+        <video style="width: 50%;height: 410px;" src="video/Premium jewellery product video [demo] wristwatch (1).mp4"
+            controls autoplay muted loop></video>
+    </span>
+    <ul>
+        <li>some text</li>
+        <img src="images/list1.jpg" alt="">
+        <li>some text</li>
+        <img src="images/61TD5JLGhIL._SX3000_.jpg" alt="">
+        <li>some text</li>
+        <img src="images/list3.jpg" alt="">
+    </ul>
+    <hr>
+    <p><b>
+            <center>text</center>
+        </b></p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos quae laboriosam placeat, ab ullam
+        aspernatur molestias! Omnis rem natus harum inventore delectus recusandae, neque, dolore placeat quasi
+        accusantium, ad voluptate!
+    </p>
+    <hr>
+    <p>
+        <center> <b>start selling online</b></center>
+    </p>
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/oaKXSxgpFEo" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+    </center>
+    <span>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum debitis eaque animi, recusandae,
+            laudantium voluptatibus ducimus asperiores perspiciatis dolores hic tempore laborum porro voluptatem officia
+            doloremque eos repudiandae qui voluptas!</p>
+        <img src="images/1 pic loreal.jpg" alt="new img">
+    </span>
+    <span>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem ut unde sapiente iste consequuntur nostrum.
+            Quidem ullam, modi, nulla sint at unde impedit vel corrupti repudiandae velit cumque voluptates blanditiis.
+        </p>
+        <img src="images/second picture.jpg" alt="new img">
+    </span>
+    <hr>
+    <p>
+        <b>
+            <center> Contact</center>
+        </b>
+    </p>
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1244073.552645827!2d31.43163700837392!3d29.829600852701976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1457fb175c22441f%3A0x7933b90609328af5!2z2KfZhNmC2KfZh9ix2Kkg2KfZhNis2K_Zitiv2Kk!5e0!3m2!1sen!2sde!4v1692537567416!5m2!1sen!2sde"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <span>
+        <center>
+            <a target="_blank" href="https://www.facebook.com/">
+                <img src="images/facebook.png" alt="new img">
+            </a>
+            <a target="_blank" href="https://www.linkedin.com/">
+                <img src="images/linkedin.png" alt="new img">
+            </a>
+            <a target="_blank" href="https://www.twitter.com/">
+                <img src="images/twitter.png" alt="new img">
+            </a>
+            <a target="_blank" href="https://wa.me/+201021033150">
+                <img src="images/whatsapp.jpg" alt="new img">
+            </a>
+        </center>
+    </span>
+    <hr>
+    <center>
+        <p>Copy right by Mohamed Amin</p>
+    </center>
+
+</body>
+
+</html>
